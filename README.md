@@ -6,9 +6,9 @@
 
 ## How to contribute
 
-- Fork or clone the repository
-- Create a new branch using your name
-- Create seperate projects for both producer and consumer
-- Do the necessary modifications
-- Commit your changes
-- Create a pull request to master branch
+- Fork or clone the repository 🍴
+- Create a new branch using your name 🌱
+- Create seperate projects for both producer and consumer 📁
+- Do the necessary modifications 👨‍💻
+- Commit your changes 💬
+- Create a pull request to master branch ✋
